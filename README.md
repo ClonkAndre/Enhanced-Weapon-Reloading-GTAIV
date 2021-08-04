@@ -1,4 +1,6 @@
 Enhanced Weapon Reloading is a mod for GTA IV that makes the character actually pull out the magazine and stick a new one in the gun. Like in GTA V.  
+
+A little showcase video of how it would look like with a pistol: https://www.youtube.com/watch?v=mJDDkXebDCg
   
 ## How to Contribute
 ⚠ You will need Zolika's ASI scripting base in order to contribute on this mod.  
